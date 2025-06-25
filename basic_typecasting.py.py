@@ -1,4 +1,4 @@
-from Variables import is_student  # TYPECASTING
+                                                  # TYPECASTING
  # THE PROCESS OF CONVERTING A VARIABLES FROM ONE DATA TYPE TO ANOTHER i.e str(), int(), boot()
 
 name = "Arpit Sharma"
