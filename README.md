@@ -11,7 +11,7 @@ Currently, I'm learning Python to build cool projects and improve my programming
 - Basic Python concepts like variables, data types, and loops  
 - List operations and manipulation  
 - Functions and user-defined examples  
-- Simple projects and exercises
+- Exercises
 
 ## Skills I'm Developing
 - Python programming basics  
