@@ -45,7 +45,7 @@ print(i)
 
 age = 101
 if age <= 290:
-    print("")
+    print("Bro You are too old!!")
 elif age > 25 and age < 61:
     print("Welcome buddy !!")
 elif age >= 61 and age <= 70:
@@ -53,6 +53,6 @@ elif age >= 61 and age <= 70:
 elif age >= 71 and age <= 101:
     print("OMG !! Very Senior Citizen.")
 else:
-    print("S=")
+    print("Maybe You Are Alien")
 
 
