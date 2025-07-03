@@ -6,3 +6,6 @@ print(number)
 
 number = range(200)
 print(number)
+
+number = range(500)
+print(number)
