@@ -1,4 +1,4 @@
-print("Heyy !! ")
+print("Heyy ! ")
 
 a = input("How are you? (good or bad): ").strip().lower()
 
