@@ -13,9 +13,9 @@
 # :, = comma separator
 
 
-price1 = 50840.345
-price2 = -5345.45
-price3 = 451435.262
+price1 = 55840.345
+price2 = -5345.89
+price3 = 468495.643
 
 #print(f"Price 1 is ${price1:.2f}")    #  print upto 2 decimal spaces
 
