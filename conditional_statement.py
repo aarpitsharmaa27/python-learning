@@ -7,10 +7,10 @@ if age <= 18 :
     print("Sorry! Content is age restricted.")
 
 elif age >= 18 and age < 61 :
-    print("Welcome to our world ! Now you can sign in. ")
+    print("Welcome to our world !! Now you can sign in. ")
 
 elif age >= 61 and age <= 120:
-    print("Sorry! You are to old to sign im.")
+    print("Sorry!! You are to old to sign im.")
 
 else:
     print("Please enter a valid age.")
