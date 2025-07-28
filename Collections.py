@@ -61,7 +61,7 @@ print(fruits)
 #       Remember =  Sets are {} unordered and immutable, but Add/Remove OK. NO duplicates
 
 
-products = {"Cream", "Books", "Shoes", "Slippers"}
+products = {"Cream", "Books", "Shoes", "Sandles"}
 print(products)
 
 print(dir(products))        # it shows all functions and attributes which are available in following set
