@@ -1,7 +1,7 @@
 
 #       2D list is a list which is made up of lists
 
-TV =      ["samsung","xiomi", "suntek"]
+TV =      ["samsung","xiomi", "sony"]
 Laptops = ["aesus", "dell", "lenovo"]
 Mobiles = ["redmi", "oppo", "motorola"]
 
@@ -21,7 +21,7 @@ print(products[0][2])      # It means row 0 column 2 product i.e suntek
 
 
 
-products = [  ["Samsung","Xiomi", "Suntek"] , ["Aesus", "Dell", "Lenovo"] , ["Redmi", "Oppo", "Motorola"] ]
+products = [  ["samsung","xiomi", "suntek"] , ["aesus", "dell", "lenovo"] , ["redmi", "oppo", "motorola"] ]
 
 for product in products:      # It print input vertically
     for device in product:      # It print every single input vertically
