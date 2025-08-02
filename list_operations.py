@@ -1,6 +1,6 @@
                     #LIST OPERATIONS
 
-marks = [90, 95, 89]    # Here ,We took marks of 3 subjects but we want to add marks of more subject then we use (append)
+marks = [64, 54, 87]    # Here ,We took marks of 3 subjects but we want to add marks of more subject then we use (append)
 
 marks.append(94)
 print(marks)
@@ -28,3 +28,4 @@ while i < len(marks):      # To print marks by (while) loop
 
 marks.clear()
 print(marks)        # For empty list
+
